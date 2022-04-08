@@ -1,0 +1,11 @@
+.header nav a{
+    margin-right: 20px ;
+    margin-top: 10px;
+    font-size: 20px ;
+    text-decoration: none;
+    color: black;
+    transition: .5s ease-in-out;
+}
+.header nav a:hover{
+    color: sandybrown;
+}
